@@ -5,3 +5,4 @@ authors = ["Ataraxia Linux <ataraxialinux@protonmail.ch>"]
 edition = "2018"
 
 [dependencies]
+clap = "1.4.1"

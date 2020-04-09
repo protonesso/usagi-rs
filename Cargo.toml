@@ -1,0 +1,7 @@
+[package]
+name = "usagi-rs"
+version = "0.1.0"
+authors = ["Ataraxia Linux <ataraxialinux@protonmail.ch>"]
+edition = "2018"
+
+[dependencies]
